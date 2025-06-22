@@ -50,9 +50,3 @@ This project demonstrates the implementation of three popular **text feature ext
 | **Word2Vec** | Captures semantic meaning of words |
 
 ---
-
-## 🚀 How to Use
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
